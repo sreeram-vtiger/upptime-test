@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Pricing page
-    url: https://www.vtiger.com/proicing
+    url: https://www.vtiger.com/pricing
   - name: Vtiger French website
     url: https://www.vtiger.com/fr/
   - name: Vtiger Spain website
