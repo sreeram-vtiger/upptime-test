@@ -1,7 +1,7 @@
 url: https://www.vtiger.com/pricing
-status: down
-code: 500
-responseTime: 188
-lastUpdated: 2024-02-10T16:40:17.388Z
+status: up
+code: 200
+responseTime: 151
+lastUpdated: 2024-02-10T16:51:36.748Z
 startTime: Mon Jul 31 2023 14:47:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
