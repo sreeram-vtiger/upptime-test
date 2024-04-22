@@ -1,7 +1,7 @@
 url: https://two.vtiger.com/
-status: up
-code: 200
-responseTime: 546
-lastUpdated: 2024-04-22T11:28:29.579Z
+status: down
+code: 503
+responseTime: 15073
+lastUpdated: 2024-04-22T11:41:54.863Z
 startTime: Mon Jul 31 2023 14:48:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
